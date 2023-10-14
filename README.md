@@ -1,4 +1,48 @@
+# Crud Product Django and React js 
+
+## Features
+-Show Product
+-Add Product 
+-Product Details
+-Delete Product
+-Update Product
+
+# Display Show Product 
+
+![Image Description](readmeimg/1.png)
+
+
+# Display Details 
+
+![Image Description](readmeimg/2.png)
+
+
+# Display Add Product  
+
+![Image Description](readmeimg/41.png)
+
+
+# Display Update  
+
+![Image Description](readmeimg/3.png)
+
+
+# Getting Started with Create Django App
+
+-it is django directory 
+
+
+pip install rest_framework
+
+python manage.py runserver
+
+
+
 # Getting Started with Create React App
+
+cd to my-app 
+my-app is react js directory
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
